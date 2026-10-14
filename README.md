@@ -3,7 +3,7 @@
 > Практический курс по работе с **Claude Code** на русском: от первого запуска до профессиональной настройки команды.
 > CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, headless-режим и CI — с лабораторными работами и готовыми шаблонами, которые можно скопировать в свой проект. 🧠 **[Machine learning](https://t.me/+PwIsGaFpgjhkNTdi)** — здесь можно найти полный список самых крутых ИИ курсво, чтобы стать гуру ИИ и множество полезных инструментов и уроками работы с ними, абсолютных мастхев!
 
-[![Validate](https://github.com/justxor/claude-code-pro-course/actions/workflows/validate.yml/badge.svg)](https://github.com/justxor/claude-code-pro-course/actions/workflows/validate.yml)
+[![Validate](https://github.com/progova-code/claude-code-pro-course/actions/workflows/validate.yml/badge.svg)](https://github.com/progova-code/claude-code-pro-course/actions/workflows/validate.yml)
 ![level](https://img.shields.io/badge/уровень-от_новичка_до_профи-blue)
 ![modules](https://img.shields.io/badge/модулей-12-orange)
 ![labs](https://img.shields.io/badge/лаб-8-purple)
@@ -56,7 +56,7 @@ curl -fsSL https://claude.ai/install.sh | bash     # macOS / Linux / WSL
 # или: npm install -g @anthropic-ai/claude-code
 
 # 2. Поставьте starter-kit в свой проект
-git clone https://github.com/justxor/claude-code-pro-course.git
+git clone https://github.com/progova-code/claude-code-pro-course.git
 bash claude-code-pro-course/install.sh ~/path/to/my-project
 
 # 3. Запустите
